@@ -1,0 +1,5 @@
+# twitter_parser extension
+comment = 'twittter Hashtag and Mention parsing for full-text search'
+default_version = '1.0'
+module_pathname = '$libdir/twitter_parser'
+relocatable = true
